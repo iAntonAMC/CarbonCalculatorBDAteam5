@@ -10,13 +10,14 @@ Cada vez que viajamos en coche, cargamos el teléfono móvil o ponemos una lavad
 En consecuencia con los malos efectos del aumento de CO2 en el medio ambiente han sido desarrolladas las calculadoras de carbon, apps webs que realizan un calculo del CO2 que se produce dependiendo de las cantidades consumidas por una persona, de los cuales podemos encontrar en el mercado a "Huella de Ciudades" una app que permite calcular el nivel de CO2 que se generea a partir de las actividades cotidianas como pueden ser: gasto de gas, uso de vehiculos, cantidad de personas que viven en una casa, etc. Con estos datos cualquier persona puede consultar un aproximado sobre su CO2 e identificar el nivel de riesgo que representa al medio ambiente.
 
 La propia Organización de las Naciones Unidas (ONU) cuenta con su propia calculadora de carbono, la cual considera campos como Cuidados del Hogar, Modo de Transporte y Estilo de Vida
+
 **Para el Cuidado del Hogar se toman en cuenta cossas como:**
 - Personas que habitan la vivienda
 - Lugar de residencia 
 - El área que ocupa la vivienda
 - Y el tipo de vivienda y de estructura (Si es construcción vertical, de cuántos pisos, etc.)
 
-*Para el Modo de Transporte, los aspectos que considera la ONU son (Por semana):**
+**Para el Modo de Transporte, los aspectos que considera la ONU son (Por semana):**
 - Tren interurbano (Si es que es diponible en la localidad)
 - Bus entre ciudades
 - Metro
