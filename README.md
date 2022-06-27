@@ -27,6 +27,11 @@ La propia Organización de las Naciones Unidas (ONU) cuenta con su propia calcul
 - Automóvil (Si es que se dispone de alguno)
 - Motocicleta (Si se dispone de alguna)
 
+## Funciones
+Otra de las funciones nuevas que se podrian agregar a las calcuadoras normales son:
+
+- Evidencias reales sobre lo que pasa alrededor del mundo, debido a que las calculadoras solo muestran un impacto de nosotros al paneta se queda ahí, sin embargo, no se dan muestras reales acerca de la consecuencia que esto trae, por lo tanto, seria genial agregar imagenes/videos reales, haber i de esta manera las personas toman mas conciencia de lo que esta pasando
+- Mostrar la fecha de vida que le queda al paneta, recientemente se ha publicado una fecha de 'muerte' para el planeta https://www.bbc.com/mundo/noticias-internacional-40565126.
 **Para el Estilo de Vida se consideran situaciones como:**
 - El tipo de dieta del hogar
 - Cuántos veces se come fuera del hogar
